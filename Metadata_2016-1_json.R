@@ -1,5 +1,5 @@
 #' ---
-#' title: Metadata 2016 Spring - Text mining with json data
+#' title: Metadata 2016 Spring - Text-mining TED talks with json data
 #' author: SY YU
 #' date: 2016-05-18
 #' ---
